@@ -1,0 +1,17 @@
+{
+  "name": "spZipImg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "spZipImg": "./bin/spZipImg.mjs"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.0",
+    "pngquant-bin": "^8.0.1"
+  }
+}
