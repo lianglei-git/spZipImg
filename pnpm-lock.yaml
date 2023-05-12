@@ -2,12 +2,10 @@ lockfileVersion: 5.4
 
 specifiers:
   fs-extra: ^11.1.0
-  images: ^3.2.4
   pngquant-bin: ^8.0.1
 
 dependencies:
   fs-extra: 11.1.0
-  images: 3.2.4
   pngquant-bin: 8.0.1
 
 packages:
@@ -561,11 +559,6 @@ packages:
 
   /ieee754/1.2.1:
     resolution: {integrity: sha512-dcyqhDvX1C46lXZcVqCpK+FtMRQVdIMN6/Df5js2zouUsqG7I6sFxitIC+7KYK29KdXOLHdu9zL4sFnoVQnqaA==}
-    dev: false
-
-  /images/3.2.4:
-    resolution: {integrity: sha512-Uq61/Q8XixCRyKvws7tPwboK0O70Dbr4kMQZHw2dqdEhnU6TpaGwyMg0vzQ4aaGtrO9N3etq46XwF7hxbqp8ug==}
-    requiresBuild: true
     dev: false
 
   /import-lazy/3.1.0:

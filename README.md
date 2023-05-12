@@ -19,3 +19,7 @@
 ```bash
 spZipImg ./test
 ```
+
+
+TODO: jpeg jpg svg 等等
+#### see imagemin
