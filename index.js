@@ -4,7 +4,9 @@ import { execFile } from "node:child_process";
 import _path from "path";
 const { readdir, ensureDirSync, lstatSync, existsSync, rmSync } = pkg;
 
-const extsReg = /\.(png|jpe?g|gif|svg)$/;
+// const extsReg = /\.(png|jpe?g|gif|svg)$/;
+const extsReg = /\.(png|jpe?g|gif)$/;
+
 
 const copyZip = _path.join(process.cwd(), "./spcopy");
 
