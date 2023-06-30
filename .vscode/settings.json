@@ -1,0 +1,7 @@
+{
+    "go.useLanguageServer": true,
+    "go.gopath": "${workspaceFolder}/rewrite2.0",
+    "gopls": {
+        "ui.semanticTokens": true
+    }
+}
